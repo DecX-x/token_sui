@@ -1,6 +1,4 @@
-# Kampus Token - Creating Token Using SUI and Move Network
-
-A comprehensive project demonstrating how to create a custom token on the SUI blockchain using the Move programming language.
+Creating Token Using SUI and Move Network
 
 ## Project Overview
 
